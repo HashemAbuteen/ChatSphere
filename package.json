@@ -1,0 +1,11 @@
+{
+  "name": "chatsphere",
+  "version": "1.0.0",
+  "description": "ChatSphere is chatting application that matches you with people near you to chat with",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
